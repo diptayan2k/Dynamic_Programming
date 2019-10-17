@@ -1,3 +1,7 @@
+/* -----------------Digit Dynamic Programming---------------*/
+
+Problem link: https://www.hackerearth.com/problem/algorithm/playing-with-digits-4e25844f/description/
+
 #include <iostream>
 #include<bits/stdc++.h>
 #define ll long long int
